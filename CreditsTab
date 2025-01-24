@@ -1,0 +1,66 @@
+-- // This is for the script, It is not meant to be executed.
+local CreditsSection1 = getgenv().CreditsTab:Section({Side = "Left"});
+
+CreditsSection1:Header({Text = "Credits Wall"});
+
+CreditsSection1:Divider();
+
+CreditsSection1:Spacer();
+
+CreditsSection1:Paragraph({Header = "Script Creator",Body = "MommyW6 <3"});
+
+CreditsSection1:Spacer();
+
+CreditsSection1:Paragraph({Header = "Some Sources",Body = "Sirius Team <3"});
+
+CreditsSection1:Divider();
+
+CreditsSection1:SubLabel({Text = "Thanks to all these amazing people <3"});
+
+local CreditsSection2 = getgenv().CreditsTab:Section({Side = "Left"});
+CreditsSection2:Header({Text = "Contact me"});
+
+CreditsSection2:Divider();
+
+CreditsSection2:Button({Name = "Get in touch here.",Callback = function()
+	Window:Notify({Title = Window.Settings.Title,Description = "Maybe later?",Lifetime = 3});
+end})
+
+CreditsSection2:SubLabel({Text = "Please dont contact me for no reason~"});
+
+local CreditsSection3 = getgenv().CreditsTab:Section({Side = "Left"});
+
+CreditsSection3:Button({Name = "Join Discord Server [LOCKED]",Callback = function()
+	-- Window:Notify({Title = Window.Settings.Title,Description = "Discord link copied to clipboard!",Lifetime = 3});
+	-- loadstring(game:HttpGet("https://raw.githubusercontent.com/MommyW6/Main/home/Discord"))();
+end})
+
+CreditsSection3:SubLabel({Text = "https://NothingYet"});
+-- https://dsc.gg/Blank-Blank
+local CreditsSection4 = getgenv().CreditsTab:Section({Side = "Right"});
+
+CreditsSection4:Header({Text = "© 2025 MommyW6. All rights reserved."});
+
+CreditsSection4:Divider();
+
+CreditsSection4:Spacer();
+
+CreditsSection4:Paragraph({Header = "License Grant",Body = "Permission is granted to use this script for personal or educational purposes only."});
+
+CreditsSection4:Spacer();
+
+CreditsSection4:Spacer();
+
+CreditsSection4:Paragraph({Header = "Restrictions",Body = ""});
+
+CreditsSection4:SubLabel({Text = "- You may not copy, distribute, or modify this script."});
+
+CreditsSection4:SubLabel({Text = "- It is disallowed to be used for commercial purposes."});
+
+CreditsSection4:SubLabel({Text = "- Any other use of this script requires explicit permission from the copyright holder."});
+
+CreditsSection4:Divider();
+
+CreditsSection4:Label({Text = "Disclaimer"});
+
+CreditsSection4:SubLabel({Text = 'This software is provided "as-is", without any express or implied warranty. The author is not responsible for any damages resulting from the use of this script.'});
