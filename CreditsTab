@@ -36,7 +36,7 @@ CreditsSection3:Button({Name = "Join Discord Server [LOCKED]",Callback = functio
 end})
 
 CreditsSection3:SubLabel({Text = "https://NothingYet"});
--- https://dsc.gg/Blank-Blank
+
 local CreditsSection4 = getgenv().CreditsTab:Section({Side = "Right"});
 
 CreditsSection4:Header({Text = "© 2025 MommyW6. All rights reserved."});
