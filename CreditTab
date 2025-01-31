@@ -7,11 +7,11 @@ CreditsSection1:Divider();
 
 CreditsSection1:Spacer();
 
-CreditsSection1:Paragraph({Header = "Script Creator",Body = "MommyW6 <3"});
+CreditsSection1:Paragraph({Header = "Main Scripter",Body = "MommyW6 <3"});
 
 CreditsSection1:Spacer();
 
-CreditsSection1:Paragraph({Header = "Best Boy~",Body = "BlueBunBun <33333"});
+CreditsSection1:Paragraph({Header = "Best Boy ever",Body = "BlueBunBun <<<333"});
 
 CreditsSection1:Spacer();
 
