@@ -7,21 +7,21 @@ CreditsSection1:Divider();
 
 CreditsSection1:Spacer();
 
-CreditsSection1:Paragraph({Header = "Main Scripter",Body = "MommyW6 <3"});
+CreditsSection1:Paragraph({Header = "Main Scripter~",Body = "MommyW6 <3"});
 
 CreditsSection1:Spacer();
 
-CreditsSection1:Paragraph({Header = "Best Boy ever",Body = "BlueBunBun <<<333"});
+CreditsSection1:Paragraph({Header = "Best Boy ever~",Body = "BlueBunBun <<<333"});
 
 CreditsSection1:Spacer();
 
 CreditsSection1:Spacer();
 
-CreditsSection1:Paragraph({Header = "UI Library",Body = "Biggaboy212 (Modified by MommyW6)"});
+CreditsSection1:Paragraph({Header = "UI Library~",Body = "Biggaboy212 (Modified by MommyW6)"});
 
 CreditsSection1:Spacer();
 
-CreditsSection1:Paragraph({Header = "Some Sources",Body = "Sirius Team."});
+CreditsSection1:Paragraph({Header = "Some Sources~",Body = "Sirius Team."});
 
 CreditsSection1:Divider();
 
