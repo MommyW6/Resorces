@@ -77,8 +77,10 @@ CreditsSection4:SubLabel({Text = "- Using this software for commercial purposes 
 
 CreditsSection1:Spacer();
 
-CreditsSection4:Label({Text = "Disclaimer"});
+CreditsSection4:Paragraph({Header = "Disclaimer",Body = ""});
 
 CreditsSection4:SubLabel({Text = 'This software is provided "as-is", without any express or implied warranty. The author is not responsible for any damages resulting from the use of this script.'});
+
+CreditsSection1:Spacer();
 
 CreditsSection4:SubLabel({Text = 'The copyright holder owns a boy named BlueBunBun~'});
