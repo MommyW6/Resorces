@@ -61,7 +61,7 @@ CreditsSection4:Spacer();
 
 CreditsSection1:Spacer();
 
-CreditsSection4:Paragraph({Header = "License Restrictions",Body = "Unless explicitly granted written permission by the copyright holder, the following actions are strictly prohibited:"});
+CreditsSection4:Paragraph({Header = "License Restrictions",Body = "Unless granted written permission by the copyright holder, the following actions are prohibited:"});
 
 CreditsSection1:Spacer();
 
