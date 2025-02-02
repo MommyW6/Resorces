@@ -1,2 +1,3 @@
+-- // Nice?
 task.spawn(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/MommyW6/Resorces/home/Rainbowify"))(); end)
 task.spawn(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/MommyW6/Resorces/home/Neonify"))(); end)
