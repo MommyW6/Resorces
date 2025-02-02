@@ -63,8 +63,6 @@ CreditsSection4:Paragraph({Header = "License Restrictions",Body = "Unless grante
 
 CreditsSection4:Spacer();
 
-CreditsSection4:Spacer();
-
 CreditsSection4:SubLabel({Text = "- Copying, distributing, or redistributing this software in any form."});
 
 CreditsSection4:SubLabel({Text = "- Modifying, reverse engineering, or attempting to derive the source code."});
