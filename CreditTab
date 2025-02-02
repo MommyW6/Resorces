@@ -59,15 +59,11 @@ CreditsSection4:Paragraph({Header = "Ownership & Rights",Body = "This script and
 
 CreditsSection4:Spacer();
 
-CreditsSection1:Spacer();
-
 CreditsSection4:Paragraph({Header = "License Restrictions",Body = "Unless granted written permission by the copyright holder, the following actions are prohibited:"});
 
-CreditsSection1:Spacer();
+CreditsSection4:Spacer();
 
-CreditsSection1:Spacer();
-
-CreditsSection1:Spacer();
+CreditsSection4:Spacer();
 
 CreditsSection4:SubLabel({Text = "- Copying, distributing, or redistributing this software in any form."});
 
@@ -75,7 +71,7 @@ CreditsSection4:SubLabel({Text = "- Modifying, reverse engineering, or attemptin
 
 CreditsSection4:SubLabel({Text = "- Using this software for commercial purposes without prior authorization."});
 
-CreditsSection1:Spacer();
+CreditsSection4:Spacer();
 
 CreditsSection4:Paragraph({Header = "Disclaimer",Body = ""});
 
