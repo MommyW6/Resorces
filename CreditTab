@@ -55,11 +55,15 @@ CreditsSection4:Divider();
 
 CreditsSection4:Spacer();
 
-CreditsSection4:Paragraph({Header = "Ownership & Rights",Body = "This software and all associated materials are the exclusive property of MommyW6. It is protected by copyright, trade secrets, and other intellectual property laws."});
+CreditsSection4:Paragraph({Header = "Ownership & Rights",Body = "This script and all associated materials are the exclusive property of MommyW6. It is protected by copyright."});
 
 CreditsSection4:Spacer();
 
+CreditsSection1:Spacer();
+
 CreditsSection4:Paragraph({Header = "License Restrictions",Body = "Unless explicitly granted written permission by the copyright holder, the following actions are strictly prohibited:"});
+
+CreditsSection1:Spacer();
 
 CreditsSection4:SubLabel({Text = "- Copying, distributing, or redistributing this software in any form."});
 
@@ -67,7 +71,7 @@ CreditsSection4:SubLabel({Text = "- Modifying, decompiling, reverse engineering,
 
 CreditsSection4:SubLabel({Text = "- Using this software for commercial purposes without prior authorization."});
 
-CreditsSection4:Divider();
+CreditsSection1:Spacer();
 
 CreditsSection4:Label({Text = "Disclaimer"});
 
