@@ -71,7 +71,7 @@ CreditsSection4:SubLabel({Text = "- Using this software for commercial purposes 
 
 CreditsSection4:Spacer();
 
-CreditsSection4:Paragraph({Header = "Disclaimer",Body = 'This software is provided "as-is", without any express or implied warranty. The author is not responsible for any damages resulting from the use of this script.'});
+CreditsSection4:Paragraph({Header = "Disclaimer:",Body = 'This software is provided "as-is", without any express or implied warranty. The author is not responsible for any damages resulting from the use of this script.'});
 
 CreditsSection4:Spacer();
 
