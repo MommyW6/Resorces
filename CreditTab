@@ -67,7 +67,7 @@ CreditsSection1:Spacer();
 
 CreditsSection4:SubLabel({Text = "- Copying, distributing, or redistributing this software in any form."});
 
-CreditsSection4:SubLabel({Text = "- Modifying, decompiling, reverse engineering, or attempting to derive the source code."});
+CreditsSection4:SubLabel({Text = "- Modifying, reverse engineering, or attempting to derive the source code."});
 
 CreditsSection4:SubLabel({Text = "- Using this software for commercial purposes without prior authorization."});
 
