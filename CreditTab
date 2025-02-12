@@ -38,14 +38,14 @@ end})
 
 CreditsSection2:SubLabel({Text = "Please dont contact me for no reason~"});
 
-local CreditsSection3 = getgenv().CreditsTab:Section({Side = "Left"});
+-- local CreditsSection3 = getgenv().CreditsTab:Section({Side = "Left"});
 
-CreditsSection3:Button({Name = "Join Discord Server [LOCKED]",Callback = function()
+-- CreditsSection3:Button({Name = "Join Discord Server [LOCKED]",Callback = function()
 	-- Window:Notify({Title = Window.Settings.Title,Description = "Discord link copied to clipboard!",Lifetime = 3});
 	-- loadstring(game:HttpGet("https://raw.githubusercontent.com/MommyW6/Main/home/Discord"))();
-end})
+-- end})
 
-CreditsSection3:SubLabel({Text = "https://NothingYet"});
+-- CreditsSection3:SubLabel({Text = "https://NothingYet"});
 
 local CreditsSection4 = getgenv().CreditsTab:Section({Side = "Right"});
 
